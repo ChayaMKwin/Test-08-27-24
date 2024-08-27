@@ -1,3 +1,5 @@
+## Test
+
 1- Escreva um programa em python que grave 1 milhão de linhas em um arquivo texto. Cada linha deve conter um inteiro, aleatório, com um range entre 0 e 1 milhão.
 
 2- Escreva um programa em python que conte o número de ocorrências que cada um dos números apareceu no arquivo acima, e grave em um novo arquivo texto no formato: "número|ocorrências. Ou seja, se o número "10" for aparecer em "5" linhas, você deverá gravar "10|5".
